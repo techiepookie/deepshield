@@ -17,14 +17,19 @@ This project, developed for **Hacknovate6.0*, is a **DeepFake Detector** designe
 
 ## 📁 Project Structure
 ```
-├── frontend/
+├── templates/
 │    ├── index.html
-│    ├── style.css
+│    ├── result
 │    └── script.js
 │
-├── backend/
-│    ├── app.py
-│    └── model_handler.py
+├── static/
+│    ├── css
+|       ├── index.css
+|       ├── result.css
+|
+|    ├──js
+|       ├── index.js
+|       ├── resultjcss
 │
 └── README.md
 ```
