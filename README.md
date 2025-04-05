@@ -39,8 +39,8 @@ This project, developed for **Hacknovate6.0*, is a **DeepFake Detector** designe
 ## 📦 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iemhacks3.0-deepfake-detector.git
-   cd iemhacks3.0-deepfake-detector
+   git clone https://github.com/techiepookie/deepshield
+   cd deepfake-detector
    ```
 
 2. Set up a virtual environment (optional but recommended):
